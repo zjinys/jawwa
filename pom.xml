@@ -71,12 +71,12 @@
 
 	<distributionManagement>
 		<repository>
-			<id>jawsy-releases</id>
-			<url>https://jawsy.fi/nexus/content/repositories/releases</url>
+			<id>asiacom</id>
+			<url>http://192.168.0.205:8080/nexus/content/repositories/asiacom-releases/</url>
 		</repository>
 		<snapshotRepository>
-			<id>jawsy-snapshots</id>
-			<url>https://jawsy.fi/nexus/content/repositories/snapshots</url>
+			<id>asiacom</id>
+			<url>http://192.168.0.205:8080/nexus/content/repositories/asiacom-snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
